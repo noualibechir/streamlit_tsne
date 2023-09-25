@@ -1,7 +1,8 @@
 # T-SNE viewer with Streamlit 😎
 
 ### 📢 Favour:
-It would be highly motivating, if you can STAR⭐ this repo if you find it helpful.
+It would be **highly motivating**, if you can **STAR**⭐ this repo if you find it helpful.
+
 Try out a demo here: [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://tsne-viewer.streamlit.app/)
 
 ### Installation
