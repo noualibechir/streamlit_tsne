@@ -4,24 +4,24 @@
 
 ### Installation
 1. Clone repo
-   '''bash
+   ```bash
    git clone https://github.com/noualibechir/streamlit_tsne.git
    cd Real-ESRGAN
    
-   '''
+   ```
 2. Create a new environment 
-    '''bash
+    ```bash
      python -m venv env
-    '''
+    ```
 3. Activate the new environment
 **Linux/Mac**
-    '''bash
+    ```bash
     source env/bin/activate
-    '''
+    ```
 **Windows**
-   '''bash
+   ```bash
    source env/Scripts/activate
-   '''
+   ```
 ### Install dependencies 
     '''
     bash
