@@ -15,11 +15,12 @@
     ```
 3. Activate the new environment
 
-**Linux/Mac**
+   **Linux/Mac**
+
     ```bash
     source env/bin/activate
     ```
-**Windows**
+   **Windows**
    ```bash
    source env/Scripts/activate
    ```
