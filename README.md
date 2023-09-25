@@ -37,7 +37,7 @@ Try out a demo here: [![Streamlit App](https://static.streamlit.io/badges/stream
    streamlit run app.py
    ```
 ### Video Tutorial 
-[video_tuto_v2.webm](https://github.com/noualibechir/streamlit_tsne/assets/94851376/c3f8351c-02f4-4f07-8b5c-e4af630305f8)
+[video_tuto_v2.webm](https://github.com/noualibechir/streamlit_tsne/assets/94851376/c77835ee-7083-4249-ad3d-81a9257e5ea3)
 
 
 
