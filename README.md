@@ -26,7 +26,7 @@
    ```
 4. Install dependencies 
     
-    ```bash
+   ```bash
     pip install -r requirements.txt
     ```
 5. Run
