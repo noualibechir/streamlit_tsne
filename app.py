@@ -30,7 +30,7 @@ tab1,tab2 = st.tabs(['Description','Viewer'])
 
 with tab1:
     st.title('T-SNE data visualization demo :sunglasses:')
-    st.header('Digits dataset in 2D and 3D space representation')
+    st.header('Digits and Wine datasets in 2D and 3D space representation')
     st.markdown("""
     ### Introduction:
     In this tutorial we will show you an example of one of the most famous algorithm of dimensionality reduction,
