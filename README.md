@@ -24,12 +24,12 @@
    ```bash
    source env/Scripts/activate
    ```
-### Install dependencies 
+4. Install dependencies 
     
     ```bash
     pip install -r requirements.txt
     ```
-### Run
+5. Run
    ```bash
    streamlit run app.py
    ```
