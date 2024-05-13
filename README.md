@@ -9,7 +9,7 @@ Try out a demo here: [![Streamlit App](https://static.streamlit.io/badges/stream
 1. Clone repo
    ```bash
    git clone https://github.com/noualibechir/streamlit_tsne.git
-   cd Real-ESRGAN
+   cd streamlit_tsne
    
    ```
 2. Create a new environment 
